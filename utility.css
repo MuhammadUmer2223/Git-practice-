@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+:root{
+    --red: #ed1c24;
+    --white: #ffffff;
+    --black: #000000;
+    --green: #28a745;
+
+}
+body{
+    background-color: var(--black);
+}
+.color-white{
+    color: var(--white);
+}
