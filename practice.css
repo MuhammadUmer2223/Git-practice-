@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.dflex{
+    display: flex;
+
+}
+.box{
+    background-color: aqua;
+    border: 1px solid white;
+    width: 150px;
+    height: 100px;
+}
+.bg-transparent{
+background-color: transparent;
+color: white;
+
+}
+.margin{
+    margin: 20px;
+}
+.padding{
+    padding: 30px;
+}
+.text-center{
+    text-align: center;
+}
+.text-center{
+    margin: auto 0;
+}
